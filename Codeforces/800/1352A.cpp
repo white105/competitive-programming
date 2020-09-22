@@ -14,9 +14,6 @@ int main() {
 
         string num = to_string(n);
 
-
-
-
         int num_zeros = 0;
 
         for (int i=0; i<num.length(); i++) {
